@@ -1,4 +1,4 @@
-# elastic_cp_audit_logs
+# cp_audit
 
 Collect and Analyze Confluent Platform Audit Logs with the Elastic Stack.
 
