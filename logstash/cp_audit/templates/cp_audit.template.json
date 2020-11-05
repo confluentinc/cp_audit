@@ -41,6 +41,12 @@
       "@version": {
         "type": "keyword"
       },
+      "action" : {
+        "type" : "keyword"
+      },
+      "message" : {
+        "type" : "text"
+      },
       "specversion": {
         "type": "keyword"
       },
