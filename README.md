@@ -2,8 +2,22 @@
 
 Collect and Analyze Confluent Platform Audit Logs with the Elastic Stack.
 
-THIS IS STILL A WORK-IN-PROGRESS!
+![Screen Shot 2020-11-05 at 13 26 18](https://user-images.githubusercontent.com/10326954/98240963-87300e00-1f6a-11eb-9702-5006bec8cac9.png)
 
-![Screen Shot 2020-11-04 at 23 18 27](https://user-images.githubusercontent.com/10326954/98175025-20710d00-1ef6-11eb-9774-d34b012f94a6.png)
+## Dashboards
 
-![Screen Shot 2020-11-04 at 23 18 52](https://user-images.githubusercontent.com/10326954/98175178-5b734080-1ef6-11eb-8c93-3055ef0f802f.png)
+### Overview
+
+![Screen Shot 2020-11-05 at 13 13 40](https://user-images.githubusercontent.com/10326954/98240977-8b5c2b80-1f6a-11eb-8747-6bb04dbe8856.png)
+
+### Top-N
+
+![Screen Shot 2020-11-05 at 13 13 51](https://user-images.githubusercontent.com/10326954/98240985-8d25ef00-1f6a-11eb-81bb-19ca857b7d77.png)
+
+### Activity
+
+![Screen Shot 2020-11-05 at 13 13 59](https://user-images.githubusercontent.com/10326954/98240991-8f884900-1f6a-11eb-8f52-a39d5f08e529.png)
+
+### Raw Records
+
+![Screen Shot 2020-11-05 at 13 14 12](https://user-images.githubusercontent.com/10326954/98241026-9b740b00-1f6a-11eb-949f-085d174d93f0.png)
